@@ -1,5 +1,6 @@
 {
   "name": "memory-game",
+  "homepage": "https://rishawraj.github.io/memory-game",
   "private": true,
   "version": "0.0.0",
   "type": "module",
